@@ -55,5 +55,17 @@ body{
         font-size: 21px;
         padding: 26px;
     }
+
+    .imgline{
+        width: 100%;
+    }
 }
+
+@media(min-width: 640px){
+    .imgline{
+        width: 100%;
+    }
+}
+    
+    
 
