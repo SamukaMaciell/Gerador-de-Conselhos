@@ -61,7 +61,7 @@ body{
     }
 }
 
-@media(min-width: 640px){
+@media(min-width: 375px){
     .imgline{
         width: 100%;
     }
