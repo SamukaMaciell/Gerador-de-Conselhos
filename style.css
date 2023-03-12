@@ -56,14 +56,14 @@ body{
         padding: 26px;
     }
 
-    .imgline{
-        width: 100%;
-    }
+   
 }
 
 @media(min-width: 375px){
     .imgline{
-        width: 100%;
+        width: 90%;
+        padding: 15px;
+
     }
 }
     
